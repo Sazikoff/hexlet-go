@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	greeting "hexlet-go/greeting"
+	greeting "github.com/Sazikoff/hexlet-go/greeting"
 )
 
 func main() {
